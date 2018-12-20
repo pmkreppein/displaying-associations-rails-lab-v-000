@@ -4,3 +4,4 @@ class AddArtistIdToSongs < ActiveRecord::Migration
       t.integer :artist_id
   end
 end
+end
